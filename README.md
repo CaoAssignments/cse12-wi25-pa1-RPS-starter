@@ -1,6 +1,6 @@
 # CSE 12 PA1: RPS (Rock-Paper-Scissors)
 
-**Due Date: Thursday, October 10, 2024, 11:59 pm PST**
+**Due Date: Thursday, January 16, 2025, 11:59 pm PST**
 
 ### Assignment goals:
 * Affirm your commitment to upholding academic integrity in this course
